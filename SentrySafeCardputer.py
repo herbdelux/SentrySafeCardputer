@@ -132,7 +132,7 @@ def main():
 
 #Intro
 display2.fill(config2.palette[0])
-display2.text("Coded by Spaceherb", 25, 60, config2.palette[9], font=font2)
+display2.text("Coded by Herb Delux", 25, 60, config2.palette[9], font=font2)
 display2.show()
 time.sleep(2)
     
