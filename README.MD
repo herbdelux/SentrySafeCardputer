@@ -1,5 +1,12 @@
   ## **Sentry Safe Bypass Tool for Cardputer**
 
+Support my original music:
+
+https://herbdeluxmusic.bandcamp.com
+
+Or on at https://ko-fi.com/herbdelux
+
+
 Credit to echo-lalia for MicroHydra and H4ckdaddy for Sentry Safe research.
 
 SentrySafeCardputer.py is intended to be run in MicroHydra on the M5Stack Cardputer. This program is intended for use in legal, and research situations. I am not responsible for you using this improperly. 
@@ -29,7 +36,7 @@ activities, such as learning and experimenting with your own gear.
 
 > 1. Unscrew any screws found around or under the PIN pad of the safe. Then, twist off the pin pad and pull it back toward you.(If this doesn't work, then try to figure something out on your own.)
 
-> 2. Using GPIO (Dupont) jumper cables, or whatever works, connect the black wire behind the safe's pin pad, to the GND pin on the Cardputer. Connect the green wire behind the safe's pin pad, to the G1 pin on the cardputer. Instructions are also on screen.
+> 2. Using GPIO jumper cables, or whatever works, connect the black wire behind the safe's pin pad, to the GND pin on the Cardputer. Connect the green wire behind the safe's pin pad, to the G1 pin on the cardputer. Instructions are also on screen.
 
 > 3. Once everything is connected, press any key on the Cardputer to send the signals. Make sure nothing gets disconnected while it's running. It only takes a few moments for the signal to fully send. It will tell you when it's done on screen.
 
