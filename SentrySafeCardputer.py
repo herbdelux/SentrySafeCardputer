@@ -3,7 +3,7 @@
 #Instructions: Unscrew a screw near the bottom of the PIN pad. Twist off/remove the PIN pad section to expose the wires.
 #Connect black wire behind PIN pad to GND on Cardputer.
 #Connect green wire behind PIN pad to G1 on Cardputer.
-#Coded by Herb Delux. SentrySafeCardputer Version 1.0.
+#SentrySafeCardputer Version 1.0.
 
 import time
 from machine import Pin, freq, reset, UART
@@ -132,7 +132,7 @@ def main():
 
 #Intro
 display2.fill(config2.palette[0])
-display2.text("Coded by Herb Delux", 25, 60, config2.palette[9], font=font2)
+display2.text("Sauce time!", 25, 60, config2.palette[9], font=font2)
 display2.show()
 time.sleep(2)
     
